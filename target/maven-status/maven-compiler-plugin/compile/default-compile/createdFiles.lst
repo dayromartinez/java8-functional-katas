@@ -6,13 +6,13 @@ model/Bookmark.class
 katas/Kata1.class
 katas/Kata6.class
 model/MovieList.class
-util/DataUtil.class
 Main.class
+util/DataUtil.class
 katas/Kata11.class
 katas/Kata5.class
 model/InterestingMoment.class
-katas/Kata4.class
 katas/Kata10.class
+katas/Kata4.class
 model/BoxArt.class
 model/Movie.class
 katas/Kata8.class
